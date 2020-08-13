@@ -1,0 +1,4 @@
+﻿  RPG Game.cpp
+C:\Users\gusbr\source\repos\RPG Game\ItemList.h(10,2): warning C4091: 'static ': ignored on left of 'ItemList' when no variable is declared
+C:\Users\gusbr\source\repos\RPG Game\RPG Game.cpp(150,34): warning C4804: '<': unsafe use of type 'bool' in operation
+  RPG Game.vcxproj -> C:\Users\gusbr\source\repos\RPG Game\x64\Debug\RPG Game.exe

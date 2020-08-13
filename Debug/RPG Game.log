@@ -1,0 +1,9 @@
+﻿  Creature.cpp
+C:\Users\gusbr\source\repos\RPG Game\Creature.h(27): warning C4091: 'static ': ignored on left of 'const Creature::Items' when no variable is declared
+  Monster.cpp
+C:\Users\gusbr\source\repos\RPG Game\Creature.h(27): warning C4091: 'static ': ignored on left of 'const Creature::Items' when no variable is declared
+C:\Users\gusbr\source\repos\RPG Game\Monster.h(18): warning C4091: 'static ': ignored on left of 'const Monster::Type' when no variable is declared
+  Player.cpp
+C:\Users\gusbr\source\repos\RPG Game\Creature.h(27): warning C4091: 'static ': ignored on left of 'const Creature::Items' when no variable is declared
+  Generating Code...
+  RPG Game.vcxproj -> C:\Users\gusbr\source\repos\RPG Game\Debug\RPG Game.exe

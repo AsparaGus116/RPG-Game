@@ -1,0 +1,42 @@
+Need:
+
+*Room Class  (name, properties)
+
+Coordinate Grid(Matrices / use enum?)
+
+*Player Class
+
+*Monster Class
+
+*Formatting
+
+*RNG(% chance function)
+
+Colored Text?
+
+*Items / Weapons (Damage, Durability)
+
+Read Commands
+
+Read Directions and Move Cartesian
+
+Build Map
+
+Create Game::Go Body
+
+////Use std::getline(std::cin, piece) to get string with spaces
+
+if (FindOccurrence(piece, query) != std::string::npos// size_t type)
+	{
+		std::cout << "Found!";
+	}
+	else
+	{
+		std::cout << "Not found!";
+	}
+
+	//Grandpappy n' kid (Pickle)
+
+
+	
+

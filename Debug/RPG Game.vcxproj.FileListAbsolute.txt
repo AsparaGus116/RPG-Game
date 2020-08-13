@@ -1,0 +1,2 @@
+C:\Users\gusbr\source\repos\RPG Game\Debug\RPG Game.exe
+C:\Users\gusbr\source\repos\RPG Game\Debug\RPG Game.pdb
